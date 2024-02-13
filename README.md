@@ -1,0 +1,1 @@
+Small project involving creating an index page to several recipe pages. Project serves to demonstrate and practice ability to use bash command line for git functions as well as basic html coding to produce webpages with links, images, lists, and headings.
